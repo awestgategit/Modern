@@ -7,7 +7,6 @@ import flixel.util.FlxTimer;
 
 /**
  * Dangerous triangle. Beware.
- * @author SaturnO
  */
 class ShapeObjectTriangle extends FlxSprite
 {
