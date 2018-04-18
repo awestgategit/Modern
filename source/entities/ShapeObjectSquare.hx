@@ -7,7 +7,6 @@ import flixel.util.FlxTimer;
 
 /**
  * Collectible square! Get points!
- * @author SaturnO
  */
 class ShapeObjectSquare extends FlxSprite
 {
