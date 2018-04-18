@@ -4,7 +4,6 @@ import flixel.math.FlxPoint;
 
 /**
  * Square displayed on the right that symbolizes a recently collected square.
- * @author SaturnO
  */
 class RecentSquare extends FlxSprite
 {
