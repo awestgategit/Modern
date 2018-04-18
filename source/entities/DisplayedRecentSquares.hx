@@ -6,7 +6,6 @@ import flixel.tweens.FlxTween;
 
 /**
  * 16 Squares displayed next to the rings. They represent recently collected squares. When 16 are collected an effect will happen based on majority color.
- * @author SaturnO
  */
 class DisplayedRecentSquares extends FlxTypedGroup<RecentSquare>
 {
