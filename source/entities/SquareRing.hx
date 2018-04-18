@@ -3,7 +3,6 @@ import flixel.FlxSprite;
 
 /**
  * ...
- * @author SaturnO
  */
 class SquareRing extends FlxSprite
 {
